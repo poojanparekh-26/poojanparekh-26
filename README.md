@@ -1,6 +1,8 @@
 # Hi, I'm Poojan Parekh
 
 Computer Science Student at Nirma University
+Interested in Software Engineering, Competitive Programming, AI/ML and FinTech.
+Preparing for Summer 2027 SWE Internships.
 
 ## Interests
 - Software Engineering
